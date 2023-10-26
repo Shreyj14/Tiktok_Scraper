@@ -1,0 +1,4 @@
+selenium==4.14.0
+pandas
+beautifulsoup4
+pyvirtualdisplay
